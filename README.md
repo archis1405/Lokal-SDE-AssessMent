@@ -86,7 +86,7 @@ How long users stay active in a session.
 1. GPT suggested a way to create a random 6-digit number for OTP and store it with an expiry time.
 2. Provided TypeScript type definitions for OtpRecord, OtpStore, and ValidationResult
 3. Gave template for OTP validation with attempt count and expiry checks.
-4. Helped me to create a React-Native 
+4. Helped me to create a SMTP server and connecting my email
 ```
 
 ### What I understood: 
