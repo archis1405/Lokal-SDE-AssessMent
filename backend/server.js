@@ -85,6 +85,6 @@ app.listen(PORT, async () => {
   try {
     await verifyMailerConnection();
   } catch (err) {
-    console.error('❌ SMTP failed:', err.message);
+    console.error(' SMTP failed:', err.message);
   }
 });

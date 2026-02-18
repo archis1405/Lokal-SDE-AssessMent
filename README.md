@@ -47,7 +47,7 @@ Maximum Attempts: 3 (Account locked/reset after 3 failures).
 
 Resend Logic: Generating a new OTP invalidates the previous code and resets the attempt counter.
 
-Security: OTP codes are strictly restricted to the console in __DEV__ mode to prevent UI leaks.
+Security: OTP codes is generated and send in the given email only that ensures that the OTP is not exposed.
 ```
 
 ## Data-Structure 
@@ -101,4 +101,9 @@ How long users stay active in a session.
 ## FireBase console link:
 ```
 https://console.firebase.google.com/u/0/project/lokal-assessment/overview
+```
+
+## Demo Video link :
+```
+https://drive.google.com/file/d/1kehzkX_KJmGhMpRbtxHDB14TFRyrP7PE/view?usp=sharing
 ```
