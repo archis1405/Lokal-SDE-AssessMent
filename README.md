@@ -25,7 +25,7 @@ Login: Enter a valid email address on the login screen.
 
 Send OTP: Tap the "Send OTP" button.
 
-The OTP is visible in the browser sonsole as we have not setup the email and we cannot view the OTP directly in the UI 
+The OTP is sent to the email that you have entered  
 
 Enter the 6-digit code.
 
